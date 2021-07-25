@@ -1,6 +1,6 @@
 package ru.geekbrains.jca.Lesson_6;
 
-public abstract class Animal {
+public class Animal {
 
     private String type;        // вид животного
     private String name;        // кличка животного
